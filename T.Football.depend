@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1464334943 source:f:\buet_cse _1_1\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108168 f:\buet_cse _1_1\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464451134 source:f:\buet_cse _1_1\t.football\imain.cpp
+	"iGraphics.h"
+
+1462108168 f:\buet_cse _1_1\t.football\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465018834 source:g:\t.football\imain.cpp
+	"iGraphics.h"
+
+1464941943 g:\t.football\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465371063 source:h:\t.football\imain.cpp
+	"iGraphics.h"
+
+1465316430 h:\t.football\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465378955 source:c:\users\user\desktop\t.football\imain.cpp
+	"iGraphics.h"
+
+1465374099 c:\users\user\desktop\t.football\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465568679 source:f:\t.football\imain.cpp
+	"iGraphics.h"
+
+1465374100 f:\t.football\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
